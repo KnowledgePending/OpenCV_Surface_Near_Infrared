@@ -14,3 +14,9 @@ A [Windows Universal Sample Application](https://github.com/microsoft/Windows-un
 In this case the subject was pictured in pitch black yet the application was still able to produce a clean image and derive contours from the image.  
 
 <img src="images/application_screenshot.png" width="675" height="290">
+
+
+### Build Issues
+If you are getting build errors ensure that 
+* The solution is configured for release and x64
+* The minimum windows version is set to a value less than or equal to your devices windows version
