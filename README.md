@@ -1,7 +1,7 @@
 # OpenCV Surface Near Infrared Camera Example
 A [Windows Universal Sample Application](https://github.com/microsoft/Windows-universal-samples) altered to use the Near Infrared Camera found on certain Surface and Windows Hello enabled devices 
 
-A newer version of ths application exists that allows for simultaneous capture of both front Color and Infrared Cameras to a file.
+A newer version of this application exists that allows for simultaneous capture of both front Color and Infrared Cameras to a file.
 Contact me at the email listed on my profile for access.
 ### Requirements
 * Visual Studio 2017 Update 4 or higher
