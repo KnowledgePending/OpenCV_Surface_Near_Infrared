@@ -16,8 +16,11 @@ Contact me at the email listed on my profile for access.
 ### Application Screenshot  
 In this case the subject was pictured in pitch black yet the application was still able to produce a clean image and derive contours from the image.  
 
-<img src="images/application_screenshot.png" width="675" height="290">
+<img src="images/application_screenshot.png" width="70%">
 
+
+### Updated Version
+<img src="https://bryanflood.ie/img/ir-app.gif" width="70%">
 
 ### Build Issues
 If you are getting build errors ensure that 
